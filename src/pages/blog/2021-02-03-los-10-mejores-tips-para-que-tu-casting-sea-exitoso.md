@@ -8,7 +8,11 @@ description: En un Casting hay mucho que no depende de ti...pero hay muchas
 featuredpost: true
 featuredimage: /img/casting-exito.jpg
 tags:
-  - casting; talento; éxito; tips; artistas
+  - casting
+  - talento
+  - éxito
+  - tips
+  - artistas
 ---
 <!--StartFragment-->
 
@@ -52,6 +56,6 @@ Más allá de la tensión que te pueda generar, trata de centrarte en el disfrut
 
 Por sobre todas las cosas. Demuestra tu TALENTO. Lo que eres, lo que sabes, y muestra con todas tus ganas por qué deberían escogerte a ti. Piensa en todo lo positivo que tienes, y muéstralo con fuerza. Con la frente en alto! Y dando lo mejor de ti.
 
-Te 
+Te deseamos mucha suerte!!
 
 <!--EndFragment-->
