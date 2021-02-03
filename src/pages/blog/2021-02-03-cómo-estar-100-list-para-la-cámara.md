@@ -26,7 +26,7 @@ tags:
 ---
 ## Maquillaje
 
-![](/img/maquillaje.jpg)
+![maquillaje](/img/maquillaje.jpg)
 
 <!--StartFragment-->
 
@@ -48,7 +48,7 @@ Te dejamos algunas cuentas de Instagram para que te inspires:
 
 ## Vestimenta
 
-![](/img/vestimenta.jpg)
+![vestimenta](/img/vestimenta.jpg)
 
 <!--StartFragment-->
 
@@ -60,7 +60,7 @@ Por ejemplo en Buenos Aires puedes visitar <https://www.juanperez.com.ar/> la ti
 
 ## Cabello y Peinado
 
-![](/img/peinado.jpg)
+![cabello y peinado](/img/peinado.jpg)
 
 <!--StartFragment-->
 
