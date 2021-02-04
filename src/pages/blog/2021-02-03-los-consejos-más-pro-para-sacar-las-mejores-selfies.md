@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Los consejos más pro para sacar las mejores SELFIES
+title: Los consejos más pro para sacarte las mejores SELFIES
 date: 2021-01-22T21:24:22.208Z
 description: Cómo sacarte selfies para que tu perfil en Click&Cast se vea DE LO
   MEJOR! Y también para estar listo para Castings. Las Selfies son las fotos por
