@@ -24,7 +24,7 @@ En lo posible luz natural que apunte a tu rostro y/o cuerpo.
 
 #### 2. Fondo Neutro
 
-Sobre todo para las actuaciones, que la mirada esté en ti y no en el fondo.
+Sobre todo para las actuaciones, que la mirada esté en ti y no en el fondo ó cualquier objeto que aparezca en imagen.
 
 #### 3. Ambiente sin ruidos
 
@@ -35,7 +35,5 @@ Conecta auriculares al dispositivo para que el sonido se escuche / grabe mejor.
 Revisa cuáles son los requisitos, si la grabación o sesión de fotografía tiene que ser horizontal o vertical. Si tiene que ser de cuerpo completo, mejor usa un trípode.
 
 Muchos éxitos!!!
-
-
 
 <!--EndFragment-->
