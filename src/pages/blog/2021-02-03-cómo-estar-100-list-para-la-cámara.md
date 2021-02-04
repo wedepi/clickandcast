@@ -5,13 +5,13 @@ date: 2021-01-05T20:47:41.170Z
 description: >
   Quedar seleccionad@ en un Casting es sólo el primer paso a la aventura que es
   presentarse a un set de filmación. Son muchos los detalles que tienes que
-  entender y saber de antemano para presentarte de una buena manera y no quedar
-  como la novata o el novato del set.
+  entender y saber de antemano para presentarte preparad@ y no quedar como la
+  novata o el novato del set.
 
 
   Estar list@ para la cámara significa llegar al set con: 1) Cabello y peinado listo, 2) Maquillaje listo, 3) Vestimenta lista. Es pocas palabras, list@ para actuar! 
 
-  Aquí te compartimos los mejores tips para que estés 100% listo para ese día:
+  Aquí te compartimos los mejores tips para que estés 100% list@ para ese día:
 featuredpost: true
 featuredimage: /img/camera-ready.jpg
 tags:
@@ -32,7 +32,7 @@ tags:
 
 Es imprescindible que primero te centres en el tipo de maquillaje que vas a necesitar. Puedes hacerte un maquillaje de ojos increíble, pero si no es acorde a lo que tienes que representar, será hecho para nada e incluso te puede traer problemas. Por lo general los lineamientos del tipo de maquillaje te los comunican antes del día de set, por lo que te sugerimos que como primera medida los leas bien a detalle. En caso que no te haya llegado nada, es importante que preguntes. No te avergüences, es un aspecto fundamental que tienen el deber de informarte.
 
-Si eres mujer centrate en el rostro, pero sin olvidar tu cuello y tus uñas. Si eres hombre, normalmente no es necesario un maquillaje previo salvo que la filmación o sesión sea de alguna temática artística. En ese caso, te darán los requerimientos necesarios o te proporcionarán el maquillaje.
+Si eres mujer centrate en el rostro, pero sin olvidar tu cuello y tus uñas. Si eres hombre, normalmente no es necesario un maquillaje previo salvo que la filmación o sesión sea de alguna temática artística. En ese caso, te darán los requerimientos necesarios o te proporcionarán el maquillaje en el set.
 
 Te dejamos algunas cuentas de Instagram para que te inspires:
 
