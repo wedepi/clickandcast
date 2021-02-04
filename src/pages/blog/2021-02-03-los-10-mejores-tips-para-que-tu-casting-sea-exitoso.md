@@ -4,7 +4,7 @@ title: Los 10 mejores tips para que tu Casting sea exitoso
 date: 2020-12-29T20:21:15.923Z
 description: En un Casting hay mucho que no depende de ti...pero hay muchas
   cosas que SI puedes hacer. Te dejamos un listado de infaltables para que
-  apliques ante cada aplicación.
+  apliques en cada audición.
 featuredpost: true
 featuredimage: /img/casting-exito.jpg
 tags:
@@ -30,11 +30,11 @@ Mira una película, una serie o haz alguna actividad que te baje la ansiedad as�
 
 #### 4. Usa ropa acorde a tu personalidad
 
-Usa ropa donde te sientas cómod@, disminuye aquellas cosas con las que tengas que pensar que hacer, y si usas ropa a la cual no te sientes acostumbrad@, estarás pensando en ello en vez de centrarte en lo que has ido a hacer. Centrate más en el papel que quieres conseguir más que en cómo te ves.
+Usa ropa donde te sientas cómod@, disminuye aquellas cosas en las que tengas que pensar que hacer, y si usas ropa a la cual no te sientes acostumbrad@ estarás pensando en ello en vez de centrarte en lo que has ido a hacer. Centrate más en el papel que quieres conseguir más que en cómo te ves.
 
 #### 5. Resalta lo que eres y evita fingir lo que no eres
 
-Si bien estarás representando a un personaje que no eres tu, tu impronta personal es fundamental y lo que hará que las marcas te recuerden. No tienes que fingir, muéstrate cómo eres en realidad.
+Si bien estarás representando a un personaje que no eres tú, tu impronta personal es fundamental y lo que hará que las marcas te recuerden. No tienes que fingir, muéstrate cómo eres en realidad.
 
 #### 6. Apréndete el texto ó material para el casting como si lo tuvieras tatuado
 
@@ -46,7 +46,7 @@ Esta regla de oro es aplicable a todo aquello que estés pensando para tu prepar
 
 #### 8. Se puntual
 
-Eso: se puntual. Adelanta el reloj si es necesario, pero asegúrate de llegar unos minutos antes de la hora pautada. Lo peor que puede pasar en ese caso es que tengas que esperar unos minutos. Lo peor que puede pasar si llegas tarde, mejor no decirlo. Aquí no hay negociación que valga
+Eso: se puntual. Adelanta el reloj si es necesario, pero asegúrate de llegar unos minutos antes de la hora pautada. Lo peor que puede pasar en ese caso es que tengas que esperar unos minutos. Lo peor que puede pasar si llegas tarde, mejor no decirlo. Aquí no hay negociación que valga.
 
 #### 9. Diviértete, disfruta
 
