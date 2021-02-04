@@ -1,7 +1,6 @@
 backend:
   name: git-gateway
   branch: master
-  repo: wedepi/clickandcast
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
     update: 'Update {{collection}} “{{slug}}”'
