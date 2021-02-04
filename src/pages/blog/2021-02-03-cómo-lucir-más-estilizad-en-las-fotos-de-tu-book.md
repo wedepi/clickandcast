@@ -5,7 +5,7 @@ date: 2021-01-27T21:38:26.045Z
 description: >
   Lo más importante de tu book es que te veas real.
 
-  Esto no quita que con algunos pequeños trucos, nuestras fotos salgan mejor y nuestra figura más estilizada. Esto no te despoja lo natural, simplemente hace que resalten tus mejores aspectos.
+  Esto no quita que con algunos pequeños trucos, nuestras fotos salgan mejor y nuestra figura más estilizada. Esto no te despoja lo de natural, simplemente hace que resalten tus mejores aspectos.
 featuredpost: true
 featuredimage: /img/book.jpg
 tags:
@@ -22,7 +22,7 @@ tags:
 * No fuerces la postura
 * Si vas a posar de frente, gira un poco el cuerpo hacia un costado, de forma sutil.
 * Buscar subir un poco la cabeza para que no se te note ó haga papada. NUNCA mires hacia abajo.
-* Hombros estirados hacia atrás
+* Hombros estirados hacia atrás.
 
 ### Las Curvas
 
