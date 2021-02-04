@@ -16,6 +16,8 @@ tags:
 ---
 <!--StartFragment-->
 
+![autocasting](/img/autocasting.jpg)
+
 Algunos tips para que tus Autocastings tengan la mejor calidad:
 
 #### 1. Buena Luz
