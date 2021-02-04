@@ -7,10 +7,11 @@ class BlogRoll extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
+    const options = { year: 'numeric', month: 'long', day: 'numeric' };
 
     return (
       <div className="columns is-multiline">
-        {posts &&
+        {posts && 
           posts.map(({ node: post }) => (
             <div className="is-parent column is-6" key={post.id}>
               <article
@@ -38,16 +39,16 @@ class BlogRoll extends React.Component {
                     </Link>
                     <span> &bull; </span>
                     <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
+                      {new Date(post.frontmatter.date).toLocaleDateString('es-ES', options)}
                     </span>
                   </p>
                 </header>
                 <p>
-                  {post.excerpt}
+                  {post.frontmatter.description}
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
+                    Seguí leyendo →
                   </Link>
                 </p>
               </article>
@@ -83,6 +84,7 @@ export default () => (
               }
               frontmatter {
                 title
+                description
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
