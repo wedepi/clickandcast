@@ -55,33 +55,16 @@ Para que no salgan manchas que no existen en la realidad.
 
 ### **No temas retocar las fotos**
 
-
-
-
-
-
-
-
-
-
-
 ![selfie](/img/selfie-3.jpg)
 
 Por más bueno que uno sea con la cámara o lo fotogénic@ que seas, hay veces que retocar un poquito - recuerda el menos es más - las fotos no le hace mal a nadie, y te quedan las fotos con mejor calidad. Te recomendamos algunas aplicaciones que puedes utilizar:
 
-Pixlr
-
-Adobe Photoshop Express
-
-Snapseed
-
-Afterlight
-
-Polarr
-
-VSCO
-
-
+1. Pixlr
+2. Adobe Photoshop Express
+3. Snapseed
+4. Afterlight
+5. Polarr
+6. VSCO
 
 **Estaremos ansios@s por ver tus mejores Selfies en tu perfil de Click&Cast!**
 
