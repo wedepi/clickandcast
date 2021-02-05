@@ -7,7 +7,7 @@ description: Cómo sacarte selfies para que tu perfil en Click&Cast se vea DE LO
   excelencia donde muestras cómo eres, bajo tu propio punto de vista. Sácale
   todo el beneficio con algunos tips simples que puedes implementar desde tu
   casa.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/selfie.jpg
 tags:
   - Fotografia
