@@ -15,14 +15,17 @@ description: >
 featuredpost: true
 featuredimage: /img/camera-ready.jpg
 tags:
-  - Maquillaje
-  - Casting
-  - Peinado
-  - Audición
-  - Set
-  - Cámara
-  - Talento
-  - Tips
+  - Cine&TV
+  - Música
+  - Modelaje
+  - Teatro
+  - Danza
+  - Fotografía
+  - Publicidad
+  - Voz
+  - Actuación
+  - Modelo
+  - Bailarín@
 ---
 ## Maquillaje
 
