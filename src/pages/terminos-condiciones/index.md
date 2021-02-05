@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-path: /about
+path: /terminos-condiciones
 title: Términos y Condiciones
 ---
 Click&Cast es un servicio de anuncios de casting. Al registrarse en Click&Cast usted se compromete a cumplir con estas condiciones. Si usted no acepta estas condiciones de uso no debe registrase en Click&Cast. La inscripción a uno o más servicios de Click&Cast así como el uso del presente sitio implica la aceptación completa del presente acuerdo. Al marcar la casilla que contiene la frase « he leido y acepto las condiciones generales" situada en la parte inferior de la página para validar la inscripción, el usuario reconoce todas las disposiciones presentes en las condiciones de uso.
