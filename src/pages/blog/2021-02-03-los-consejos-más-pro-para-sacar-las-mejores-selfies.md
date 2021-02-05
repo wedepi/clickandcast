@@ -10,8 +10,13 @@ description: Cómo sacarte selfies para que tu perfil en Click&Cast se vea DE LO
 featuredpost: true
 featuredimage: /img/selfie.jpg
 tags:
-  - Fotografia
-  - Casting
+  - Modelaje
+  - Fotografía
+  - Publicidad
+  - Modelo
+  - Bailarín@
+  - Fotógraf@
+  - ""
 ---
 <!--StartFragment-->
 
