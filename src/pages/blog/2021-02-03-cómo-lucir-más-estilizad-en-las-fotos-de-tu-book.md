@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Cómo lucir más estilizad@ en las fotos de tu book
 date: 2021-01-27T21:38:26.045Z
-description: >
+description: >-
   Lo más importante de tu book es que te veas real.
 
   Esto no quita que con algunos pequeños trucos, nuestras fotos salgan mejor y nuestra figura más estilizada. Esto no te despoja lo de natural, simplemente hace que resalten tus mejores aspectos.
