@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Click&Cast
-image: /img/home-jumbotron.jpg
+image: /img/casting-home.jpg
 heading: Great coffee with a conscience
 subheading: Conectamos talento con marcas.
 mainpitch:
