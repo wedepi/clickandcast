@@ -5,7 +5,7 @@ import PreviewCompatibleImage from './PreviewCompatibleImage'
 
 class BlogRollHome extends React.Component {
   render() {
-    const { data, isHome } = this.props
+    const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
     const options = { year: 'numeric', month: 'long', day: 'numeric' };
 
@@ -14,7 +14,7 @@ class BlogRollHome extends React.Component {
         {posts && 
           posts.map(({ node: post }, index) => (
             <>
-              {post.frontmatter.featuredpost && (
+              {index <= 1 && (
                 <div className="is-parent column is-6" key={post.id}>
                   <article
                     className={`blog-list-item tile is-child box notification ${
@@ -40,7 +40,6 @@ class BlogRollHome extends React.Component {
                           {post.frontmatter.title}
                         </Link>
                         <span> &bull; </span>
-                        <span>{JSON.stringify(isHome, null, 2)}</span>
                         <span className="subtitle is-size-5 is-block">
                           {new Date(post.frontmatter.date).toLocaleDateString('es-ES', options)}
                         </span>
