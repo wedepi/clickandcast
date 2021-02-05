@@ -22,7 +22,7 @@ const BlogPreview = ({ post }) => (
         ) : null}
         <p className="post-meta">
             <Link
-            className="title has-text-primary is-size-4"
+            className="title is-size-4"
             to={post.fields.slug}
             >
             {post.frontmatter.title}
@@ -34,12 +34,13 @@ const BlogPreview = ({ post }) => (
         </p>
         </header>
         <p>
-        {post.frontmatter.description}
-        <br />
-        <br />
-        <Link className="button" to={post.fields.slug}>
-            Seguí leyendo →
-        </Link>
+            {post.frontmatter.description.substring(0, 200)}
+            {post.frontmatter.description.length > 200 && ' ...'}
+            <br />
+            <br />
+            <Link className="button" to={post.fields.slug}>
+                Seguí leyendo →
+            </Link>
         </p>
     </article>
 </div>
