@@ -12,7 +12,12 @@ description: >-
 featuredpost: true
 featuredimage: /img/autocasting.jpg
 tags:
-  - Casting
+  - Voz
+  - Actuación
+  - Modelo
+  - Bailarín
+  - Fotógraf@
+  - ""
 ---
 <!--StartFragment-->
 
