@@ -9,7 +9,7 @@ description: >-
   estar?
 
   Claves para Autocastings virtuales.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/autocasting.jpg
 tags:
   - Casting
