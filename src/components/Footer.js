@@ -10,15 +10,28 @@ const Footer = class extends React.Component {
             <div className="container has-text-white-ter">
               <div style={{ maxWidth: '100vw' }} className="columns">
                 <div className="column is-4">
-                  <span>hola@clickandcast.com</span>
-                  <a
-                    className="navbar-item"
-                    href="https://www.instagram.com/Clickandcastok/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Instagram
-                  </a>
+                  <section>
+                    <ul className="menu-list">
+                      <li>
+                        <span
+                          className="navbar-item"
+                          style={{ color: "white" }}
+                        >
+                          hola@clickandcast.com
+                        </span>
+                      </li>
+                      <li>
+                        <a
+                          className="navbar-item"
+                          href="https://www.instagram.com/Clickandcastok/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          Instagram
+                        </a>
+                      </li>
+                    </ul>
+                  </section>
                 </div>
                 <div className="column is-4">
                   <section>
@@ -37,13 +50,24 @@ const Footer = class extends React.Component {
                   </section>
                 </div>
                 <div className="column is-4 social">
-                  Hola
+                  <section style={{ paddingTop: 40 }}>
+                    <a
+                      className="navbar-item"
+                      href="https://wedepi-marketplace.web.app/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <span>
+                        Ir a la plataforma
+                      </span>
+                    </a>
+                  </section>
                 </div>
               </div>
             </div>
           </div>
         </footer>
-        <div style={{ paddingTop: 25, paddingBottom: 25 }}>
+        <div className="container" style={{ paddingTop: 25, paddingBottom: 25 }}>
           © 2021 Click&Cast. Derechos reservados.
         </div>
       </>
