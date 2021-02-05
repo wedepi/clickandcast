@@ -10,7 +10,18 @@ description: >
 featuredpost: true
 featuredimage: /img/casting-virtual.jpg
 tags:
-  - Zoom Casting
+  - Cine&TV
+  - Música
+  - Modelaje
+  - Radio
+  - Teatro
+  - Danza
+  - Fotografía
+  - Publicidad
+  - Voz
+  - Actuación
+  - Modelo
+  - Bailarín@
 ---
 # Zoom Tips
 
