@@ -8,11 +8,18 @@ description: En un Casting hay mucho que no depende de ti...pero hay muchas
 featuredpost: true
 featuredimage: /img/casting-exito.jpg
 tags:
-  - Casting
-  - Talento
-  - Éxito
-  - Tips
-  - Artistas
+  - Cine&TV
+  - Música
+  - Modelaje
+  - Radio
+  - Teatro
+  - Danza
+  - Fotografía
+  - Publicidad
+  - Voz
+  - Actuación
+  - Modelo
+  - Bailarín@
 ---
 <!--StartFragment-->
 

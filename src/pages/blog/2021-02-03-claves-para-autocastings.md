@@ -12,7 +12,19 @@ description: >-
 featuredpost: true
 featuredimage: /img/autocasting.jpg
 tags:
-  - Casting
+  - Voz
+  - Actuación
+  - Modelo
+  - Bailarín
+  - Fotógraf@
+  - Cine&TV
+  - Música
+  - Modelaje
+  - Radio
+  - Teatro
+  - Danza
+  - Fotografía
+  - Publicidad
 ---
 <!--StartFragment-->
 

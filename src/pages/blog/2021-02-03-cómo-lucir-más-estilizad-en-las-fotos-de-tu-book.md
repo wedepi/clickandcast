@@ -9,9 +9,12 @@ description: >-
 featuredpost: true
 featuredimage: /img/book.jpg
 tags:
+  - Cine&TV
   - Modelaje
   - Fotografía
-  - Perfil
+  - Publicidad
+  - Modelo
+  - Fotógraf@
 ---
 <!--StartFragment-->
 
