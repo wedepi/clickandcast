@@ -7,7 +7,6 @@ class BlogRollHome extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
-    const options = { year: 'numeric', month: 'long', day: 'numeric' };
 
     return (
       <div className="columns is-multiline">
