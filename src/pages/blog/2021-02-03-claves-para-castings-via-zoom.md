@@ -7,7 +7,7 @@ description: >
   comunicación y tecnología y sus mejores usos pueden ser la diferencia entre
   ser seleccionado para un Casting o no serlo. Tú decides: en qué bando quieres
   estar? Zoom Tips
-featuredpost: true
+featuredpost: false
 featuredimage: /img/casting-virtual.jpg
 tags:
   - Zoom Casting
