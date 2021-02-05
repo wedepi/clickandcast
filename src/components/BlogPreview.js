@@ -38,7 +38,7 @@ const BlogPreview = ({ post }) => (
         <br />
         <br />
         <Link className="button" to={post.fields.slug}>
-            Keep Reading →
+            Seguí leyendo →
         </Link>
         </p>
     </article>
