@@ -17,7 +17,14 @@ tags:
   - Modelo
   - Bailarín
   - Fotógraf@
-  - ""
+  - Cine&TV
+  - Música
+  - Modelaje
+  - Radio
+  - Teatro
+  - Danza
+  - Fotografía
+  - Publicidad
 ---
 <!--StartFragment-->
 
