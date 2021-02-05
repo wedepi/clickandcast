@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Click&Cast
-image: /img/casting-home.jpg
+image: /img/casting-home-2.jpg
 heading: Great coffee with a conscience
 subheading: Conectamos talento con marcas.
 mainpitch:
