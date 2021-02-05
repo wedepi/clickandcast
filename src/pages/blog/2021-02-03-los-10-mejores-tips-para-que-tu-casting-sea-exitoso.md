@@ -5,7 +5,7 @@ date: 2020-12-29T20:21:15.923Z
 description: En un Casting hay mucho que no depende de ti...pero hay muchas
   cosas que SI puedes hacer. Te dejamos un listado de infaltables para que
   apliques en cada audición.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/casting-exito.jpg
 tags:
   - Casting
