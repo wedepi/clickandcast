@@ -65,7 +65,7 @@ const Navbar = class extends React.Component {
             <div className="navbar-end has-text-centered">
               <a
                 className="btn-action"
-                href="https://wedepi-marketplace.web.app/"
+                href="https://clickandcast.com/"
                 target="_blank"
                 rel="noopener noreferrer"
               >

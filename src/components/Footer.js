@@ -53,7 +53,7 @@ const Footer = class extends React.Component {
                   <section style={{ paddingTop: 40 }}>
                     <a
                       className="navbar-item"
-                      href="https://wedepi-marketplace.web.app/"
+                      href="https://clickandcast.com/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
