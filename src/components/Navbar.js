@@ -66,7 +66,6 @@ const Navbar = class extends React.Component {
               <a
                 className="btn-action"
                 href="https://clickandcast.com/"
-                target="_blank"
                 rel="noopener noreferrer"
               >
                 <span>

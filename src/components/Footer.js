@@ -54,7 +54,6 @@ const Footer = class extends React.Component {
                     <a
                       className="navbar-item"
                       href="https://clickandcast.com/"
-                      target="_blank"
                       rel="noopener noreferrer"
                     >
                       <span>
