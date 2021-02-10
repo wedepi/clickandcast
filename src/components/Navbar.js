@@ -44,7 +44,7 @@ const Navbar = class extends React.Component {
               to="/"
               className="navbar-item"
               title="Logo"
-              style={{ fontFamily: "Recoleta", fontSize: 24, fontWeight: "bold" }}
+              style={{ fontFamily: "Recoleta", fontSize: 30, fontWeight: "bold" }}
             >
               Click&Cast
             </Link>
