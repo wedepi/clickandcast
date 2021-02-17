@@ -7,7 +7,7 @@ description: Cuáles son las posturas corporales que tienes que tener en cuenta 
   ayudarte a sumar muchos puntos, a conectar con tu entrevistador@ y a dar el
   mensaje que efectivamente quieres dar.
 featuredpost: true
-featuredimage: /img/pexels-pixabay-415212.jpg
+featuredimage: /img/art-blog.jpg
 tags:
   - Actor/Actriz
   - Modelo
