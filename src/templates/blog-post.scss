@@ -1,0 +1,44 @@
+h1 {
+    max-width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.blog-copete {
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.5;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px !important;
+}
+
+img {
+    border-radius: 25px;
+    text-align: center;
+}
+
+.category-link {
+    background: lightgrey;
+    border-radius: 10px;
+    padding: 5px 15px;
+    margin-right: 15px;
+    color: black;
+}
+
+.call2action {
+    max-width: 670px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 75px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 25px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    p {
+        font-size: 18px;
+    }
+}

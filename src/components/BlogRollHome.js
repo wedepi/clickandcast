@@ -12,11 +12,9 @@ class BlogRollHome extends React.Component {
       <div className="columns is-multiline">
         {posts && 
           posts.map(({ node: post }, index) => (
-            <>
-              {index <= 1 && (
-                <BlogPreview post={post} />
-              )}
-            </>
+            index <= 1 && (
+              <BlogPreview key={index} post={post} />
+            )
           ))}
       </div>
     )

@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
-import './components.css';
+import './components.scss';
 
 const options = { year: 'numeric', month: 'long', day: 'numeric' };
 
@@ -43,7 +43,7 @@ const BlogPreview = ({ post }) => {
                     <br />
                     <br />
                     <Link className="button" to={post.fields.slug}>
-                        Seguí leyendo →
+                        Sigue leyendo →
                     </Link>
                 </p>
             </article>

@@ -12,7 +12,7 @@ class BlogRoll extends React.Component {
       <div className="columns is-multiline">
         {posts &&
           posts.map(({ node: post }) => (
-            <BlogPreview post={post} />
+            <BlogPreview key={Math.floor(Math.random() * 1000)} post={post} />
           ))}
       </div>
     )

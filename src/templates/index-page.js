@@ -75,7 +75,7 @@ export const IndexPageTemplate = ({
                   </h3>
                   <BlogRollHome />
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
+                    <Link className="btn" to="/blog" style={{ width: 200, height: 45, marginTop: 25 }}>
                       Ver más
                     </Link>
                   </div>

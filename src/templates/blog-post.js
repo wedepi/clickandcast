@@ -5,6 +5,7 @@ import { Helmet } from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import './blog-post.scss';
 
 export const BlogPostTemplate = ({
   content,
@@ -25,15 +26,33 @@ export const BlogPostTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
-            <p>{description}</p>
+            <p className="blog-copete">{description}</p>
             <PostContent content={content} />
+            <div className="call2action">
+              <h2>Prueba Click&Cast gratis.</h2>
+              <p>
+                Registraté
+                <a
+                  href="https://clickandcast.com/signup"
+                  rel="noopener"
+                  target="_blank"
+                > aquí </a>
+                y aplica con un sólo Click a los
+                <a
+                  href="https://clickandcast.com/castings"
+                  rel="noopener"
+                  target="_blank"
+                > Mejores Castings </a>
+              </p>
+              
+            </div>
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
                 <h4>Categorías</h4>
                 <ul className="taglist">
                   {tags.map((tag) => (
                     <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                      <Link className="category-link" to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
                     </li>
                   ))}
                 </ul>
