@@ -26,13 +26,13 @@ tags:
 
 <!--StartFragment-->
 
-Las fotos de día con luz natural son las mejores para mostrar cómo eres en realidad, donde resalten tus rasgos, tu color de piel, tu pelo, etc. Para esto puedes estar al aire libre, cerca de una ventana, o buscar alguna luz simil solar para evitar el uso del flash.
+Las fotos de día con **luz natural** son las mejores para mostrar cómo eres en realidad, donde resalten tus rasgos, tu color de piel, tu pelo, etc. Para esto puedes estar al aire libre, cerca de una ventana, o buscar alguna luz símil solar para evitar el uso del flash.
 
-El fondo debe ser lo más neutro posible - una pared blanca, por ejemplo -, para que toda la atención esté puesta en ti.
+El fondo debe ser lo más neutro posible - una pared blanca, por ejemplo -, para que **toda la atención esté puesta en ti.**
 
 ### Sólo debes aparecer tú en la foto
 
-Pareciera algo obvio, pero podríamos olvidarnos que lo más importante es que la selfie te capte a ti y cómo te ves. No debe aparecer otra persona, mascota u otro animal. La selfie eres tu y sólo tu.
+Pareciera algo obvio, pero podríamos olvidarnos que lo más importante es que la selfie te capte a ti y cómo te ves. No debe aparecer otra persona, mascota u otro animal. **La selfie eres tu y sólo tu.**
 
 ### **Usa ropa ó accesorios que sean tuyos**
 
@@ -40,7 +40,7 @@ Pareciera algo obvio, pero podríamos olvidarnos que lo más importante es que l
 
 <!--StartFragment-->
 
-Evitar subir selfies con ropa ó accesorios que no sean tuyos o a los cuales no tengas acceso, pues si un cazatalentos te seleccionó y una de sus razones fue algún elemento de tu outfit, y luego no tienes acceso al mismo...puede ser complicado. Mejor utiliza elementos propios que combinen con tu color de piel y resalten tu belleza.
+Evitar subir selfies con ropa ó accesorios que no sean tuyos o a los cuales no tengas acceso, pues si un cazatalentos te seleccionó y una de sus razones fue algún elemento de tu outfit, y luego no tienes acceso al mismo...puede ser complicado. Mejor utiliza elementos propios que **combinen con tu color de piel y resalten tu belleza.**
 
 ### **¡Actualiza la foto!**
 
@@ -50,7 +50,7 @@ Puedes tener la selfie más sexy del planeta, pero si es de hace 5 años...no si
 
 Esto puede tomar algo de tiempo. Una vez encuentres tu mejor ángulo, tendrás tus selfies perfectas!
 
-Practica frente al espejo distintas poses y saca fotos para probar. Inclina la cabeza un poco hacia un lado o hacia atrás, le da un ángulo más interesante que una cabeza recta mirando hacia el frente.
+**Practica frente al espejo** distintas poses y saca fotos para probar. Inclina la cabeza un poco hacia un lado o hacia atrás, le da un ángulo más interesante que una cabeza recta mirando hacia el frente.
 
 Prueba también sacar la foto desde un poco más arriba de la altura de tu cabeza.
 

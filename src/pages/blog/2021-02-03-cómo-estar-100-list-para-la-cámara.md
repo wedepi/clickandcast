@@ -33,9 +33,9 @@ tags:
 
 <!--StartFragment-->
 
-Es imprescindible que primero te centres en el tipo de maquillaje que vas a necesitar. Puedes hacerte un maquillaje de ojos increíble, pero si no es acorde a lo que tienes que representar, será hecho para nada e incluso te puede traer problemas. Por lo general los lineamientos del tipo de maquillaje te los comunican antes del día de set, por lo que te sugerimos que como primera medida los leas bien a detalle. En caso que no te haya llegado nada, es importante que preguntes. No te avergüences, es un aspecto fundamental que tienen el deber de informarte.
+Es imprescindible que primero te centres en el tipo de maquillaje que vas a necesitar. Puedes hacerte un maquillaje de ojos increíble, pero si no es **acorde a lo que tienes que representar**, será hecho para nada e incluso te puede traer problemas. Por lo general los lineamientos del tipo de maquillaje te los comunican antes del día de set, por lo que te sugerimos que como primera medida los leas bien a detalle. En caso que no te haya llegado nada, es importante que preguntes. **No te avergüences**, es un aspecto fundamental que tienen el deber de informarte.
 
-Si eres mujer centrate en el rostro, pero sin olvidar tu cuello y tus uñas. Si eres hombre, normalmente no es necesario un maquillaje previo salvo que la filmación o sesión sea de alguna temática artística. En ese caso, te darán los requerimientos necesarios o te proporcionarán el maquillaje en el set.
+Si eres mujer céntrate en el rostro, pero sin olvidar tu cuello y tus uñas. Si eres hombre, normalmente no es necesario un maquillaje previo salvo que la filmación o sesión sea de alguna temática artística. En ese caso, te darán los requerimientos necesarios o te proporcionarán el maquillaje en el set.
 
 Te dejamos algunas cuentas de Instagram para que te inspires:
 
@@ -57,7 +57,7 @@ Te dejamos algunas cuentas de Instagram para que te inspires:
 
 La vestimenta puede ser muy variable con cada rol, puede ser que te den características muy concretas sobre qué usar, o quizás tengas libertad de elegir tu propio outfit. Si no estás segur@ sobre qué estilo usar, puede servir que mires películas / series / sesiones similares, para sacar ideas e ir vestid@ acorde.
 
-En caso que tengas que comprar alguna prenda específica para el rol, siempre puedes probar primero con tiendas de ropa usada o showrooms de vestimenta.
+En caso que tengas que comprar alguna prenda específica para el rol, siempre puedes probar primero con **tiendas de ropa usada o showrooms de vestimenta.**
 
 Por ejemplo en Buenos Aires puedes visitar <https://www.juanperez.com.ar/> la tienda Vintage más grande de Argentina, que incluso tiene tienda online!
 
@@ -67,7 +67,7 @@ Por ejemplo en Buenos Aires puedes visitar <https://www.juanperez.com.ar/> la ti
 
 <!--StartFragment-->
 
-Cualquiera sea el set al que te presentes, siéntete 100% segur@ que llegas con el estilo de peinado adecuado y fiel al tipo de set y de personaje que representas. Siempre lee detalladamente la información que se te envía previamente, recordando que es mejor ir más sencill@ y que en el set te terminen de retocar.
+Cualquiera sea el set al que te presentes, siéntete **100% segur@ que llegas con el estilo de peinado adecuado y fiel al tipo de set y de personaje que representas.** Siempre lee detalladamente la información que se te envía previamente, recordando que es mejor ir más sencill@ y que en el set te terminen de retocar.
 
 Si eres hombre, lee detenidamente cuál es la política respecto a las barbas.
 
