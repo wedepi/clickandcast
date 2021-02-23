@@ -17,7 +17,7 @@ tags:
 
 #### Regístrate
 
-Sólo necesitas tu email para registrate en Click&Cast desde el siguiente [enlace](https://clickandcast.com/signup). Sólo te llevará dos minutos, y podrás acceder a oportunidades de Castings y también a otros talentos como el tuyo.
+Sólo necesitas tu email para registrarte en Click&Cast desde el siguiente [enlace](https://clickandcast.com/signup). Sólo te llevará dos minutos, y podrás acceder a oportunidades de Castings y también a otros talentos como el tuyo.
 
 Te llegará un correo de bienvenida a tu casilla de email, recuerda validar tu correo electrónico para poder aplicar a oportunidades de audición.
 
@@ -32,7 +32,6 @@ En la sección Notificaciones encontrarás un mensaje de bienvenida junto con la
 1- Verificar tu correo electrónico. Simplemente haz click sobre la línea con dicho texto y te llegará un correo electrónico que te indicará cómo hacerlo.
 
 2. Completar tu foto de perfil, nombre, país, y fecha de nacimiento.
-
 3. Ser mayor de 18 años, dato que se valida automáticamente al completar con tu fecha de nacimiento.
 
 Una vez tu perfil sea público, te aparecerá un aviso en verde.
