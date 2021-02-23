@@ -5,7 +5,7 @@ date: 2021-02-23T18:11:26.140Z
 description: Te contamos cómo hacerlo y todos los beneficios de mantener
   actualizado tu perfil online en Click&Cast.
 featuredpost: true
-featuredimage: /img/perfil.jpg
+featuredimage: /img/prtgild.jpg
 tags:
   - Casting
   - Click&Cast
