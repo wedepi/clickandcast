@@ -16,7 +16,6 @@ tags:
   - Modelo
   - Bailarín@
   - Fotógraf@
-  - ""
 ---
 <!--StartFragment-->
 
