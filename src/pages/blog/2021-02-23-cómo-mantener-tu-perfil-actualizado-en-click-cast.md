@@ -9,7 +9,6 @@ featuredimage: /img/prtgild.jpg
 tags:
   - Casting
   - Click&Cast
-  - ""
 ---
 ![perfil](/img/perfil.jpg)
 
@@ -32,6 +31,7 @@ En la sección Notificaciones encontrarás un mensaje de bienvenida junto con la
 1- Verificar tu correo electrónico. Simplemente haz click sobre la línea con dicho texto y te llegará un correo electrónico que te indicará cómo hacerlo.
 
 2. Completar tu foto de perfil, nombre, país, y fecha de nacimiento.
+
 3. Ser mayor de 18 años, dato que se valida automáticamente al completar con tu fecha de nacimiento.
 
 Una vez tu perfil sea público, te aparecerá un aviso en verde.
