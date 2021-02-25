@@ -41,6 +41,10 @@ Pareciera algo obvio, pero podríamos olvidarnos que lo más importante es que l
 
 Evitar subir selfies con ropa ó accesorios que no sean tuyos o a los cuales no tengas acceso, pues si un cazatalentos te seleccionó y una de sus razones fue algún elemento de tu outfit, y luego no tienes acceso al mismo...puede ser complicado. Mejor utiliza elementos propios que **combinen con tu color de piel y resalten tu belleza.**
 
+### **Controla el Maquillaje**
+
+Las Marcas que ven tus fotos priorizarán como primera instancia conocerte cómo eres en la realidad. De esta forma se asegurarán que eres la persona con el perfil exacto para lo que están buscando. Si te ves con mucho maquillaje y/o accesorios que cubran tu cara esto no será posible, y difícilmente te elijan. En esta instancia no te preocupes tanto por cómo te ves con maquillaje, sino más bien al contrario, muéstrate lo más natural posible. 
+
 ### **¡Actualiza la foto!**
 
 Puedes tener la selfie más sexy del planeta, pero si es de hace 5 años...no sirve. Nuestra apariencia cambia, ya sea por un cambio de look como por el propio paso del tiempo. Sobre todo si has tenido algún cambio significativo como por ejemplo dejarte la barba, ponerte color en el cabello, un piercing, etc todo eso tiene que verse reflejado en la selfie.
