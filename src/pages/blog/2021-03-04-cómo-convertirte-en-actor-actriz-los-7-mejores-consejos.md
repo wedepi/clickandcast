@@ -2,8 +2,9 @@
 templateKey: blog-post
 title: Cómo convertirte en Actor/Actriz? Los 7 mejores consejos
 date: 2021-03-03T20:10:42.163Z
-description: "Te dejamos 7 consejos que no pueden perderte si tu pasión es la
-  actuación y quieres insertarte en el mercado del Cine, el Teatro o la TV.  "
+description: "Te dejamos 7 consejos que no puedes dejar de leer si tu pasión es
+  la actuación y quieres insertarte en el mercado del Cine, el Teatro o la
+  TV.  "
 featuredpost: true
 featuredimage: /img/actroo.jpg
 tags:
