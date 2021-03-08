@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Nota del Mes: conoce de cerca a Christopher, Cara de Click&Cast Marzo 2021"
 date: 2021-03-08T14:08:32.915Z
 description: "Christopher ha participado del Casting del Mes y ha sido
-  seleccionado para ser la Cara de Click&Cast Marzo 2021. Con mucha pasión y
+  seleccionado como flamante Cara de Click&Cast Marzo 2021. Con mucha pasión y
   determinación en su carrera como artista, nos cuenta un poco más sobre él, sus
   motivaciones y sus proyectos. "
 featuredpost: true
