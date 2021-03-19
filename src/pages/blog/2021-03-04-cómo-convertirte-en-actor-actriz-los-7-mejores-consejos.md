@@ -17,8 +17,6 @@ tags:
 ---
 
 
-![](/img/actroo.jpg)
-
 #### 1. Estudia y entrena para convertirte en un@
 
 Si bien no hay requerimientos específicos para convertirte en un@, te recomendamos que te capacites en cursos sobre lenguaje corporal, actoral, puesta en escena, manejo de las emociones. La actuación es un arte que precisa de habilidad y técnica, y al inicio especialmente necesitas alguien que te lio enseñe.
@@ -35,15 +33,11 @@ Todos los actores tienen habilidades especiales los que los hacen ser únicos. I
 
 Aplica los conceptos de Marketing y aprende a venderte, a mostrarle a los directores en lo que eres bueno, lo que te caracteriza y por qué tiene que contratarte a ti y no a otra persona. Desde tu CV hasta en la misma audición, siempre busca mostrar lo que vales.
 
-
-
 #### 4. Entiende la Industria de la actuación
 
 Para decidir qué ofrecer, tienes que entender lo que están buscando. Haz amigos, habla con gente y crea conexiones en la industria de la actuación, ya sea cinematográfica, teatro, comerciales o la que estés buscando. Muchas veces las oportunidades llegan a través de tu red de contactos.
 
 No subestimes los eventos que tengan relación con la industria, que te permitirá hablar con gente que ya está dentro.
-
-
 
 #### 5. Aplica, aplica, aplica a Castings
 
