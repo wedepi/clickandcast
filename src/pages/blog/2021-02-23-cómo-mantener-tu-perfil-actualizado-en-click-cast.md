@@ -10,8 +10,6 @@ tags:
   - Casting
   - Click&Cast
 ---
-![perfil](/img/perfil.jpg)
-
 <!--StartFragment-->
 
 #### Regístrate
