@@ -27,8 +27,6 @@ tags:
 
 <!--StartFragment-->
 
-![zoom](/img/casting-virtual.jpg)
-
 Cuando te llegue la confirmación de la entrevista por zoom, te llegará un link de acceso a la reunión y/o los datos de Meeting ID y Contraseña para poder ingresar. No te asustes, es fácil y podrás hacerlo.
 
 Primero que nada **asegúrate de tener instalada la app ZOOM** en tu móvil o en la PC. Te recomendamos que no lo dejes para el último día, más bien planéalo con tiempo para evitar corridas a último momento. Aprovecha también para probar que el micrófono y la cámara funcionen correctamente.
