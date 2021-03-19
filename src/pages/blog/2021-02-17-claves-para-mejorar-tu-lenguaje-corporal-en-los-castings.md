@@ -22,8 +22,6 @@ tags:
 ---
 <!--StartFragment-->
 
-![](/img/pexels-pixabay-415212.jpg)
-
 #### 1. Piernas no cruzadas
 
 Las piernas cruzadas denotan inseguridad de ti mism@. Ya sea sentad@ o parad@ tus piernas no deben estar cruzadas, si no estás enviando un mensaje de distancia entre tú y la persona que te entrevista. Prueba posicionar las piernas rectas con los piel en el suelo.
