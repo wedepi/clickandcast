@@ -17,10 +17,6 @@ tags:
 ---
 <!--StartFragment-->
 
-![](/img/christopher.jpg)
-
-
-
 **Cuéntanos sobre ti: de dónde eres, cuáles son tus pasiones?**
 
 <!--StartFragment-->
