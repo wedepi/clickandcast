@@ -31,7 +31,7 @@ export const BlogPostTemplate = ({
             <div className="call2action">
               <h2>Prueba Click&Cast gratis.</h2>
               <p>
-                Registraté
+                Regístrate
                 <a
                   href="https://clickandcast.com/signup"
                   rel="noopener"
