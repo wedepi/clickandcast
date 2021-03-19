@@ -18,8 +18,6 @@ tags:
 ---
 <!--StartFragment-->
 
-![book](/img/book.jpg)
-
 ### La Postura
 
 * Postura recta, con la cabeza ligeramente hacia adelante
