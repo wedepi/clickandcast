@@ -23,8 +23,6 @@ tags:
 ---
 <!--StartFragment-->
 
-![casting exito](/img/casting-exito.jpg)
-
 #### 1. Evita el maquillaje permanente y/o excesivo
 
 Prepara tu maquillaje de acuerdo al personaje que vayas a representar, y ante la duda si usar más maquillaje, prioriza mostrarte en vez de esconderte debajo de capas y capas de makeup.
