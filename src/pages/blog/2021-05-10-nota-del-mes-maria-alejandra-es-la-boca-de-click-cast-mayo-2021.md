@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Nota del Mes: Maria Alejandra es la Boca de Click&Cast Mayo 2021"
+title: "Nota del Mes: María Alejandra es la Boca de Click&Cast Mayo 2021"
 date: 2021-05-10T17:03:38.908Z
 description: María Alejandra es la flamante ganadora del Casting Hot, quién fue
   seleccionada por l@s seguidor@s de Click&Cast como la mejor boca del concurso.
