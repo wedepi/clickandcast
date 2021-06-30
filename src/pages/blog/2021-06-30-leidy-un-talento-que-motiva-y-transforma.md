@@ -59,14 +59,8 @@ Los invito a seguirme en instagram [@soyfatbulosa ](https://www.instagram.com/so
 
 Crecemos pensando que nunca somos suficiente, siempre creemos que nos falta algo o que no somos capaces, de ahí parte nuestra baja autoestima. Hoy te invito a repetirte una y otra vez SOY SUFICIENTE, los primeros días no te lo creerás pero si lo haces diariamente por un tiempo prolongado empezarás a actuar y a darte cuenta de que ERES SUFICIENTE y justo en ese momento que empiezas a CREER EN TI tu vida cambia, PORQUE TU YA ERES UNA GANADORA...!!!
 
-<!--EndFragment-->
+\--
 
-
-
-<!--EndFragment-->
-
-<!--EndFragment-->
-
-<!--EndFragment-->
+Desde Click&cast te invitamos a seguir a Leidy en su participación y a este concurso con su mensaje tan potente.
 
 <!--EndFragment-->
