@@ -12,7 +12,6 @@ featuredimage: /img/leidy.jpg
 tags:
   - Click&Cast
   - Talentos
-  - ""
 ---
 <!--StartFragment-->
 
