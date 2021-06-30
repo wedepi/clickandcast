@@ -2,11 +2,11 @@
 templateKey: blog-post
 title: Leidy, un talento que motiva y transforma
 date: 2021-06-30T21:44:47.735Z
-description: Leidy es una mujer imparable. Valiente, talentosa y emprendedora,
-  es concursante en Belleza Plus Venezuela, el primer concurso inclusivo del
-  país. En una entrevista exclusiva nos cuenta sobre ella, sobre el camino que
-  la llevó al concurso y la huella que quiere dejar en tod@s aquell@s que
-  persiguen sus sueños.
+description: Leidy es una mujer imparable, que persigue aquello en lo que cree.
+  Valiente, talentosa y emprendedora, es concursante en Belleza Plus Venezuela,
+  el primer concurso inclusivo del país. En una entrevista exclusiva nos cuenta
+  sobre ella, sobre el camino que la llevó al concurso y la huella que quiere
+  dejar en tod@s aquell@s que persiguen sus sueños.
 featuredpost: true
 featuredimage: /img/leidy.jpg
 tags:
