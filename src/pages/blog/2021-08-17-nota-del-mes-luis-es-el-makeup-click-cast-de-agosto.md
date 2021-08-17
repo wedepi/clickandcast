@@ -6,7 +6,7 @@ description: >
   Luis se ha destacado por su inmenso y emocionante talento de maquillar. En el
   reto final del Casting Hot se ganó el corazón del público y fue seleccionado
   como el mejor Makeup de Click&Cast, con un look inspirado en nuestra marca. Te
-  invitamos a conocer más de cerca a Luis.
+  invitamos a conocer más acerca de él.
 featuredpost: true
 featuredimage: /img/img_20210809_153955_661.jpg
 tags:
@@ -19,11 +19,11 @@ tags:
 
 **\- Cuéntanos sobre ti: de dónde eres, cuáles son tus pasiones?**
 
-Soy de Bejuma Estado Carabobo, Venezuela. Podría decir que mis pasiones son todo aquellos que tiene que ver con el arte, me gusta cantar, aunque no soy cantante jeje me gusta bailar, me gusta pintar puedo decir que domino un poco esa parte. Pero el maquillaje es lo que me llena. Llegué a Cick&Cast por medio de un amigo que me envió la publicación.
+Soy de Bejuma Estado Carabobo, Venezuela. Podría decir que mis pasiones son todo aquello que tiene que ver con el arte, me gusta cantar, aunque no soy cantante jeje me gusta bailar, me gusta pintar puedo decir que domino un poco esa parte. Pero el maquillaje es lo que me llena. Llegué a Cick&Cast por medio de un amigo que me envió la publicación.
 
 **\- Cuál es el trabajo de tus sueños en lo que refiere a ser artista? A dónde quieres llegar?**
 
-El trabajo de mi sueños es esto que hago el maquillar, pero poder hacerlo de manera que yo pueda brindarle la oportunidad a muchos jóvenes para que puedan desarrollar sus habilidades desde muy temprano. Una especie de escuela donde se puedan capacitar y salir adelante. Y como artista me gustaría poder llegar a maquillar a grandes celebridades y llegar a punto de profesionalismo.
+El trabajo de mi sueños es esto que hago el maquillar, pero poder hacerlo de manera que yo pueda brindarle la oportunidad a muchos jóvenes para que puedan desarrollar sus habilidades desde muy temprano. Una especie de escuela donde se puedan capacitar y salir adelante. Y como artista me gustaría poder llegar a maquillar a grandes celebridades y llegar al punto de profesionalismo.
 
 **\- Podrías definirte en 3 palabras?**
 
