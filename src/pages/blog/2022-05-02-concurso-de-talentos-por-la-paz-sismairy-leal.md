@@ -21,9 +21,7 @@ Me gusta mucho dibujar, pintar, las manualidades, actuar, dirigir en teatro, lee
 **Has sido seleccionada como Premio Promesa ya que tu talento en el dibujo nos pareció super original. Coméntanos cómo surgió.**
 
 \
-Primero, gracias por escogerme como premio promesa✨. La idea sobre la historia que transmite el primer video con mis dibujos fue porque pensé en algo sobre la paz y al mismo tiempo vi en las noticias varios veteranos dando su testimonio en su momento durante la guerra, al instante pensé que pocas personas (a parte de su familia) piensan en ellos y por lo que ellos sufren o sufrieron y por ende quise dedicarle mis dibujos a esas personas que van a la guerra por la única razón de conseguir la paz y que su pueblo no pase por los que ellos sí. Cabe destacar que para mí segundo vídeo o dibujo, me sentí un poco inspirada y quería transmitir a través de ello el lugar donde nos sentimos seguros, sin necesidad de sentirnos a nosotros mismos solo para complacer a una sociedad llena de apariencias falsas, que solo hace quitarte tu paz mental e incluso te puede bajar mucho la autoestima.
-
-
+Primero, gracias por escogerme como premio promesa✨. La idea sobre la historia que transmite el primer video con mis dibujos fue porque pensé en algo sobre la paz y al mismo tiempo vi en las noticias varios veteranos dando su testimonio en su momento durante la guerra, al instante pensé que pocas personas (a parte de su familia) piensan en ellos y por lo que ellos sufren o sufrieron y por ende quise dedicarle mis dibujos a esas personas que van a la guerra por la única razón de conseguir la paz y que su pueblo no pase por los que ellos sí. Cabe destacar que para mí segundo vídeo o dibujo, me sentí un poco inspirada y quería transmitir a través de ello el lugar donde nos sentimos seguros, sin necesidad de mentirnos a nosotros mismos solo para complacer a una sociedad llena de apariencias falsas, que solo hace quitarte tu paz mental e incluso te puede bajar mucho la autoestima.
 
 **¿Habías participado en algún concurso anteriormente? ¿Qué te pareció la experiencia?**
 
